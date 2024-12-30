@@ -30,8 +30,7 @@
     </ul>
     
     <!-- Add your image here -->
-    <img src="https://raw.githubusercontent.com/Majjiharshith/Harshit.github.io/df8d3941fad9fdf28ea312199b2598fa27dbdb5b/WhatsApp%20Image%202024-12-30%20at%208.18.50%20PM.jpeg? 
-    raw=true="Photo of D. Harshit Majji" />
+    <img src="https://raw.githubusercontent.com/Majjiharshith/Harshit.github.io/df8d3941fad9fdf28ea312199b2598fa27dbdb5b/WhatsApp%20Image%202024-12-30%20at%208.18.50%20PM.jpeg" />
 
     <p>This is a photo of mine!</p>
 </body>
